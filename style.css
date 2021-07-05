@@ -12,7 +12,3 @@
     font-weight: normal;
     src: local('Trebuchet MS Italic'), url('Trebuchet-MS-Italic.woff') format('woff');
     }
-
-    * {
-        color: red;
-    }
